@@ -1,4 +1,4 @@
-# geofence
+# stenterMachine
 
 A new Flutter project.
 

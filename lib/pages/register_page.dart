@@ -70,7 +70,7 @@ class _RegisterPageState extends State<RegisterPage> {
         children: [
           // Background image
           Image.asset(
-            'assets/images/titan.png', // update path if different
+            'assets/images/bg.png', // update path if different
             fit: BoxFit.cover,
           ),
           // Dark overlay for contrast

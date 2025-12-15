@@ -52,7 +52,7 @@ class MyDrawer extends StatelessWidget {
                     Icons.person,
                     color: Theme.of(context).colorScheme.inversePrimary,
                   ),
-                  title: const Text("P R O F I L E"),
+                  title: const Text("P R O F I L E "),
                   onTap: () {
                     // this is already the home screen so just pop drawer
                     Navigator.pop(context);

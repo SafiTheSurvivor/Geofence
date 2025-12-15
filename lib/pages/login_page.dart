@@ -44,7 +44,7 @@ class _LoginPageState extends State<LoginPage> {
         children: [
           // background image
           Image.asset(
-            'assets/images/titan.png',   // <-- your image path
+            'assets/images/bg.png',   // <-- your image path
             fit: BoxFit.cover,
           ),
           // dark overlay for contrast
@@ -141,7 +141,7 @@ class _LoginPageState extends State<LoginPage> {
                 child: Padding(
                   padding: const EdgeInsets.only(left: 48),
                   child: Text(
-                    'Climatology\nAnalytic\nApp',
+                    'Stenter\nMachine\nMonitoring\nApp',
                     style: theme.textTheme.displaySmall?.copyWith(
                       color: Colors.white,
                       fontWeight: FontWeight.w800,
